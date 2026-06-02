@@ -1,5 +1,7 @@
 Renacana Konten 
 
-- Javascript
+- Javascript 
+  * ES6
+  * Framework Javascript
 - PHP Framework
 - React js
