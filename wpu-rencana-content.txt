@@ -3,6 +3,8 @@ Renacana Konten
 - Javascript 
   * ES6
   * Framework Javascript
-- Struktur Data Dasar
+    > Angular
+    > React
 - PHP Framework
+  > Laravel
 - React js
