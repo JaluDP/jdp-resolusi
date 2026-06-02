@@ -1,6 +1,6 @@
 Reoslusi 
 - mengerti terkait GIt dan Github
 - mengerti React JS
-- membuat aplikasi sederhana
 - Turun Berat 5 Kg
 - mempelajari Back-end
+- mempelajari Front-end
