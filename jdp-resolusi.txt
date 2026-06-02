@@ -3,3 +3,4 @@ Reoslusi
 - mengerti React JS
 - membuat aplikasi sederhana
 - Turun Berat 5 Kg
+- mempelajari Back-end
